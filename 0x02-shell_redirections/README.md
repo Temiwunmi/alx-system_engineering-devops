@@ -2,4 +2,5 @@
 0. Hello World- > write a script that prints Hello World.
 1. Confused Smiley- > write a script that displays a confused smiley.
 2. Lets Display a file- > display the content of the etc/passwd file.
-3. What about 2- > display the content of etc/passwd and etc/hosts
+3. What about 2- > display the content of etc/passwd and etc/hosts.
+4. Last Lines of a file_ > display the last 10 lines of etc/passwd.
