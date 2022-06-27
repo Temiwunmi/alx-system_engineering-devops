@@ -4,3 +4,4 @@
 2. Lets Display a file- > display the content of the etc/passwd file.
 3. What about 2- > display the content of etc/passwd and etc/hosts.
 4. Last Lines of a file_ > display the last 10 lines of etc/passwd.
+5. I'd prefer the first ones actually - display the first lines of etc/password
