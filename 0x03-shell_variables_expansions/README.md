@@ -13,4 +13,8 @@
 11. binary
 12. alpha bet
 13. printf num
+14. Decimal
+15. encryption
+16. odd number
+17. star
 
