@@ -11,4 +11,5 @@
 9. duplicate last line
 10. no more javascript
 11. dont just count
-12.  Whats new - display 10 files  
+12.  Whats new - display 10 files
+13. print a Unique character  
