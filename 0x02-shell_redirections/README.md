@@ -9,4 +9,5 @@
 7. good file
 8. save current state of directory
 9. duplicate last line
-10. no more javascript  
+10. no more javascript
+11. dont just count  
