@@ -17,4 +17,5 @@
 15. counting words
 16. what's next - display lines containing patterns 
 17. hide bin
-18.Letters only 
+18.Letters only
+22.dj cut killer 
