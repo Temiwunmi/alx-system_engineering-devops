@@ -8,4 +8,5 @@
 6. Line #2 - write a script that displays the third line of the file
 7. good file
 8. save current state of directory
-9. duplicate last line 
+9. duplicate last line
+10. no more javascript  
