@@ -16,4 +16,5 @@
 14. it must be in that file - displaying lines
 15. counting words
 16. what's next - display lines containing patterns 
-17. hide bins 
+17. hide bin
+18.Letters only 
