@@ -13,4 +13,5 @@
 11. dont just count
 12.  Whats new - display 10 files
 13. print a Unique character
-14. it must be in that file - displaying lines  
+14. it must be in that file - displaying lines
+15. counting words  
